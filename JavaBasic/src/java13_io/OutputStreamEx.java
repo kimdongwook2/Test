@@ -9,7 +9,7 @@ public class OutputStreamEx {
 		//모니터 표준 출력 스트림 객체
 		OutputStream os = System.out;
 		
-		
+		 
 //		try {
 //			//write()메소드는 출력 스트림의 출력 버퍼로 출력한다
 //			os.write(65); // 'A' 출력버퍼에 저장

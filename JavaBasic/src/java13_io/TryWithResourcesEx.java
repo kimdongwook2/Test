@@ -8,7 +8,7 @@ public class TryWithResourcesEx {
 		//try - with - resources 구문
 		// 	예외처리 구문
 		// 	try~catch 구문의 변형
-		
+		 
 		//	JDK 1.7 추가
 		
 		//	-> 입출력 스트림 객체를 사용할 대 finally블록을 이용한
@@ -36,7 +36,7 @@ public class TryWithResourcesEx {
 			os.flush(); // 출력 버퍼 비우기
 			
 		} catch (Exception e) {
-			e.printStackTrace();
+			e.printStackTrace(); 
 		}
 		
 		
